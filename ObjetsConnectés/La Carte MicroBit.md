@@ -6,7 +6,7 @@ La carte micro:bit éditée par la BBC est un nano-ordinateur qui peut équiper 
 
 Le guide de présentation en ligne est disponible sur https://microbit.org/fr/guide/
 
-![](D:\DISQUE ESSB\lycee\SNT\informatique embarquée\image carte micro bit.jpg)
+![](/ObjetsConnectés/IMG/image_carte_micro_bit.jpg)
 
 La carte micro:bit dispose des spécificités techniques suivantes :
 
@@ -76,7 +76,7 @@ display.show(bateau)
 
 4. . Rédiger le programme qui affiche l'image suivante :
 
-   ![](D:\DISQUE ESSB\lycee\SNT\informatique embarquée\image canard.jpg)
+   ![](/ObjetsConnectés/IMG/image_canard.jpg)
 
 
 
