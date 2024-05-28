@@ -103,9 +103,9 @@ display.show(bateau)
    from microbit import *
    while True:
    	display.set_pixel(2,2,9)
-       sleep(500)
-       display.clear()
-       sleep(500)
+   	sleep(500)
+        display.clear()
+        sleep(500)
    ```
 
    
